@@ -1,7 +1,0 @@
-3,omar,123456oo,omar@gmail.com,200,20,user
-4,ahmed,7458mm,ahmed@gmail.com,500,25,user
-7,nizar,12345,nizar@gmail.com,500,65,user
-8,ans,56789,omar@gmai.com,200,65,user
-11,khaled,12345,khaled@gma,200,65,admin
-45,moataz,1,1,2500,32,admin
-2,omarhiggy,12345,ibrahim@gmail.com,500,65,admin
